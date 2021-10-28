@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "echo"
-        run: echo this job came from the main branch
+        run: echo this job came from the pr-2 branch
